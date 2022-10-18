@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+
+.body {
+
+}
+
+.topnav {
+    /* List */
+    position: absolute;
+    border-radius: 0px;
+    margin-top: 68px;
+    margin-bottom: 717px;
+    margin-left: 347px;
+    margin-right: 826px;
+}
+
+.topnav a {
+    position: absolute;
+    width: 303px;
+    height: 25px;
+    left: 427px;
+    top: 45px;    
+
+}
+
+.logo {
+    position: absolute;
+    width: 90px;
+    height: 36px;
+    left: 75px;
+    top: 34px; 
+
+}
+
+.image {
+
+
+.text1 {
+
+
+}
+
+.ex2 {
+
+}
+
+.h2 {
+
+}
+
+.icon {
+
+}
