@@ -1,0 +1,74 @@
+@media (max-width: 320px) {
+    nav .menu-btn i{
+      display: block;
+    } 
+    
+}
+
+.icon {
+    display: flex;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 264px;
+    top: 17px;    
+}
+
+.logo {
+    position: absolute;
+    width: 90px;
+    height: 36px;
+    left: 30px;
+    top: 11px;    
+}
+
+.image {
+    position: absolute;
+    width: 617px;
+    height: 512px;
+    margin-top: 284px;
+    margin-right: 32px;
+    margin-left: 32px;
+}
+
+.text1 {
+    margin-right: 54px;
+    margin-left: 55px;
+    margin-top: 150px;
+    margin-bottom: 314px;
+    width: 211px;
+    height: 104px;
+}
+
+.ex2 {
+    height: 40px;
+    left: 17.06%;
+    right: 17.54%;
+    top: calc(50% - 40px/2 - 32px);   
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 40px;
+    /* identical to box height, or 110% */    
+    text-align: center;
+    letter-spacing: -0.8px;   
+    color: #242635;
+}
+
+.h2 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 52.88%;
+    bottom: 0%;  
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    /* or 150% */   
+    text-align: center;   
+    color: #242635;    
+}
+
